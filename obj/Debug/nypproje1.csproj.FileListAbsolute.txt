@@ -1,0 +1,22 @@
+C:\Users\kubil\source\repos\nypproje1\bin\Debug\nypproje1.exe.config
+C:\Users\kubil\source\repos\nypproje1\bin\Debug\nypproje1.exe
+C:\Users\kubil\source\repos\nypproje1\bin\Debug\nypproje1.pdb
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.csprojAssemblyReference.cache
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.giris.resources
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.Properties.Resources.resources
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.csproj.GenerateResource.cache
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.csproj.CoreCompileInputs.cache
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.exe
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.pdb
+C:\Users\kubil\source\repos\nypproje1\obj\Debug\nypproje1.AdminMenu.resources
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.csprojAssemblyReference.cache
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.AdminMenu.resources
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.giris.resources
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.Properties.Resources.resources
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.csproj.GenerateResource.cache
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.exe
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\obj\Debug\nypproje1.pdb
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\bin\Debug\nypproje1.exe.config
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\bin\Debug\nypproje1.exe
+C:\Users\Zeynep ARSLAN\Desktop\nypproje1\bin\Debug\nypproje1.pdb
